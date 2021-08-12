@@ -1,0 +1,1001 @@
+world_rank,institution,national_rank,total_score,country_iso_code,country,year
+1,Harvard University,1,100.0,US,United States,2020
+2,Stanford University,2,74.2,US,United States,2020
+3,University of Cambridge,1,70.6,GB,United Kingdom,2020
+4,Massachusetts Institute of Technology (MIT),3,69.6,US,United States,2020
+5,"University of California, Berkeley",4,65.8,US,United States,2020
+6,Princeton University,5,61.1,US,United States,2020
+7,Columbia University,6,58.6,US,United States,2020
+8,California Institute of Technology,7,57.7,US,United States,2020
+9,University of Oxford,2,57.2,GB,United Kingdom,2020
+10,University of Chicago,8,54.6,US,United States,2020
+11,Yale University,9,53.5,US,United States,2020
+12,Cornell University,10,50.4,US,United States,2020
+13,"University of California, Los Angeles",11,50.3,US,United States,2020
+14,Paris-Saclay University,1,49.6,FR,France,2020
+15,Johns Hopkins University,12,48.3,US,United States,2020
+16,University College London,3,46.6,GB,United Kingdom,2020
+16,University of Washington,13,46.6,US,United States,2020
+18,"University of California, San Diego",14,46.3,US,United States,2020
+19,University of Pennsylvania,15,46.2,US,United States,2020
+20,ETH Zurich,1,46.1,CH,Switzerland,2020
+21,"University of California, San Francisco",16,42.8,US,United States,2020
+22,University of Michigan-Ann Arbor,17,41.0,US,United States,2020
+23,University of Toronto,1,40.9,CA,Canada,2020
+23,Washington University in St. Louis,18,40.9,US,United States,2020
+25,Imperial College London,4,40.3,GB,United Kingdom,2020
+26,The University of Tokyo,1,40.1,JP,Japan,2020
+27,Duke University,19-20,39.2,US,United States,2020
+27,New York University,19-20,39.2,US,United States,2020
+29,Tsinghua University,1,38.1,CN,China,2020
+30,Northwestern University,21-22,37.6,US,United States,2020
+30,University of North Carolina at Chapel Hill,21-22,37.6,US,United States,2020
+32,University of Wisconsin - Madison,23,37.4,US,United States,2020
+33,University of Copenhagen,1,36.9,DK,Denmark,2020
+34,Kyoto University,2,36.3,JP,Japan,2020
+35,The University of Melbourne,1,36.0,AU,Australia,2020
+36,PSL University,2,35.5,FR,France,2020
+36,The University of Manchester,5,35.5,GB,United Kingdom,2020
+38,University of British Columbia,2,35.4,CA,Canada,2020
+39,Sorbonne University,3,35.3,FR,France,2020
+40,"University of Minnesota, Twin Cities",24,35.0,US,United States,2020
+41,The University of Texas at Austin,25,34.9,US,United States,2020
+42,The University of Edinburgh,6,34.7,GB,United Kingdom,2020
+43,Rockefeller University,26,34.4,US,United States,2020
+44,University of Colorado at Boulder,27,34.2,US,United States,2020
+45,Karolinska Institute,1,33.9,SE,Sweden,2020
+45,University of Illinois at Urbana-Champaign,28,33.9,US,United States,2020
+47,King's College London,7,33.6,GB,United Kingdom,2020
+48,The University of Texas Southwestern Medical Center at Dallas,29,33.0,US,United States,2020
+49,Peking University,2,32.4,CN,China,2020
+49,"University of California, Santa Barbara",30,32.4,US,United States,2020
+51,University of Munich,1,32.3,DE,Germany,2020
+52,Utrecht University,1,31.6,NL,Netherlands,2020
+53,"University of Maryland, College Park",31,31.5,US,United States,2020
+54,Technical University of Munich,2,31.4,DE,Germany,2020
+54,The University of Queensland,2,31.4,AU,Australia,2020
+56,University of Zurich,2,31.3,CH,Switzerland,2020
+57,Heidelberg University,3,30.9,DE,Germany,2020
+58,Zhejiang University,3,30.7,CN,China,2020
+59,University of Geneva,3,30.6,CH,Switzerland,2020
+60,University of Oslo,1,30.3,NO,Norway,2020
+61,University of Southern California,32,30.1,US,United States,2020
+62,Vanderbilt University,33,30.0,US,United States,2020
+63,Shanghai Jiao Tong University,4,29.6,CN,China,2020
+64,University of Bristol,8,29.3,GB,United Kingdom,2020
+65,University of Paris,4,29.1,FR,France,2020
+66,Ghent University,1,28.9,BE,Belgium,2020
+67,The Australian National University,3,28.8,AU,Australia,2020
+67,The University of Texas M. D. Anderson Cancer Center,34,28.8,US,United States,2020
+69,Aarhus University,2,28.7,DK,Denmark,2020
+69,Stockholm University,2,28.7,SE,Sweden,2020
+69,"University of California, Irvine",35,28.7,US,United States,2020
+69,University of Groningen,2,28.7,NL,Netherlands,2020
+73,University of Science and Technology of China,5,28.6,CN,China,2020
+74,The University of New South Wales,4-5,28.5,AU,Australia,2020
+74,University of Helsinki,1,28.5,FI,Finland,2020
+74,University of Sydney,4-5,28.5,AU,Australia,2020
+77,Uppsala University,3,28.4,SE,Sweden,2020
+78,McGill University,3,28.3,CA,Canada,2020
+79,Purdue University - West Lafayette,36,28.0,US,United States,2020
+80,Erasmus University Rotterdam,3-4,27.7,NL,Netherlands,2020
+80,Leiden University,3-4,27.7,NL,Netherlands,2020
+80,National University of Singapore,1,27.7,SG,Singapore,2020
+83,Nagoya University,3,27.2,JP,Japan,2020
+83,Swiss Federal Institute of Technology Lausanne,4,27.2,CH,Switzerland,2020
+85,Monash University,6-7,27.1,AU,Australia,2020
+85,The University of Western Australia,6-7,27.1,AU,Australia,2020
+87,University of Bonn,4,27.0,DE,Germany,2020
+88,University of Basel,5,26.9,CH,Switzerland,2020
+88,University of Florida,37,26.9,US,United States,2020
+90,Boston University,38,26.7,US,United States,2020
+91,Nanyang Technological University,2,26.3,SG,Singapore,2020
+91,"University of California, Davis",39,26.3,US,United States,2020
+93,Moscow State University,1,26.2,RU,Russia,2020
+93,Weizmann Institute of Science,1,26.2,IL,Israel,2020
+95,Carnegie Mellon University,40,26.1,US,United States,2020
+96,University of Pittsburgh,41,26.0,US,United States,2020
+97,KU Leuven,2,25.9,BE,Belgium,2020
+98,McMaster University,4,25.8,CA,Canada,2020
+99,Université Grenoble Alpes,5,25.7,FR,France,2020
+100,Fudan University,6,25.5,CN,China,2020
+101-150,Aix Marseille University,6-7,,FR,France,2020
+101-150,Arizona State University,42-56,,US,United States,2020
+101-150,Brown University,42-56,,US,United States,2020
+101-150,Case Western Reserve University,42-56,,US,United States,2020
+101-150,Central South University,7-13,,CN,China,2020
+101-150,Emory University,42-56,,US,United States,2020
+101-150,Georgia Institute of Technology,42-56,,US,United States,2020
+101-150,Goethe University Frankfurt,5-7,,DE,Germany,2020
+101-150,Harbin Institute of Technology,7-13,,CN,China,2020
+101-150,Huazhong University of Science and Technology,7-13,,CN,China,2020
+101-150,Icahn School of Medicine at Mount Sinai,42-56,,US,United States,2020
+101-150,Indiana University Bloomington,42-56,,US,United States,2020
+101-150,King Abdulaziz University,1,,SA,Saudi Arabia,2020
+101-150,Mayo Clinic Alix School of Medicine,42-56,,US,United States,2020
+101-150,Michigan State University,42-56,,US,United States,2020
+101-150,Nanjing University,7-13,,CN,China,2020
+101-150,Norwegian University of Science and Technology - NTNU,2,,NO,Norway,2020
+101-150,Pennsylvania State University - University Park,42-56,,US,United States,2020
+101-150,Radboud University Nijmegen,5-7,,NL,Netherlands,2020
+101-150,Rice University,42-56,,US,United States,2020
+101-150,"Rutgers, The State University of New Jersey - New Brunswick",42-56,,US,United States,2020
+101-150,Seoul National University,1,,KR,South Korea,2020
+101-150,Southeast University,7-13,,CN,China,2020
+101-150,Sun Yat-sen University,7-13,,CN,China,2020
+101-150,Technion-Israel Institute of Technology,2-3,,IL,Israel,2020
+101-150,The Chinese University of Hong Kong,1,,HK,Hong Kong,2020
+101-150,The Hebrew University of Jerusalem,2-3,,IL,Israel,2020
+101-150,The Ohio State University - Columbus,42-56,,US,United States,2020
+101-150,The University of Sheffield,9-15,,GB,United Kingdom,2020
+101-150,Tokyo Institute of Technology,4,,JP,Japan,2020
+101-150,Université libre de Bruxelles (ULB),3,,BE,Belgium,2020
+101-150,University of Alberta,5,,CA,Canada,2020
+101-150,University of Amsterdam,5-7,,NL,Netherlands,2020
+101-150,University of Arizona,42-56,,US,United States,2020
+101-150,University of Bern,6-7,,CH,Switzerland,2020
+101-150,University of Birmingham,9-15,,GB,United Kingdom,2020
+101-150,University of Freiburg,5-7,,DE,Germany,2020
+101-150,University of Goettingen,5-7,,DE,Germany,2020
+101-150,University of Gothenburg,4,,SE,Sweden,2020
+101-150,University of Lausanne,6-7,,CH,Switzerland,2020
+101-150,University of Leeds,9-15,,GB,United Kingdom,2020
+101-150,University of Liverpool,9-15,,GB,United Kingdom,2020
+101-150,University of Nottingham,9-15,,GB,United Kingdom,2020
+101-150,University of Sao Paulo,1,,BR,Brazil,2020
+101-150,University of Southampton,9-15,,GB,United Kingdom,2020
+101-150,University of Strasbourg,6-7,,FR,France,2020
+101-150,University of Utah,42-56,,US,United States,2020
+101-150,University of Warwick,9-15,,GB,United Kingdom,2020
+101-150,Vrije Universiteit Amsterdam,5-7,,NL,Netherlands,2020
+101-150,Xi'an Jiaotong University,7-13,,CN,China,2020
+151-200,Baylor College of Medicine,57-65,,US,United States,2020
+151-200,Beihang University,14-22,,CN,China,2020
+151-200,Cardiff University,16-20,,GB,United Kingdom,2020
+151-200,Catholic University of Louvain,4,,BE,Belgium,2020
+151-200,Delft University of Technology,8-9,,NL,Netherlands,2020
+151-200,Hokkaido University,5-7,,JP,Japan,2020
+151-200,Jilin University,14-22,,CN,China,2020
+151-200,King Saud University,2,,SA,Saudi Arabia,2020
+151-200,London School of Economics and Political Science,16-20,,GB,United Kingdom,2020
+151-200,Lund University,5,,SE,Sweden,2020
+151-200,Osaka University,5-7,,JP,Japan,2020
+151-200,Sapienza University of Rome,1-3,,IT,Italy,2020
+151-200,Shandong University,14-22,,CN,China,2020
+151-200,Sichuan University,14-22,,CN,China,2020
+151-200,Soochow University (China),14-22,,CN,China,2020
+151-200,South China University of Technology,14-22,,CN,China,2020
+151-200,Technical University of Denmark,3,,DK,Denmark,2020
+151-200,Tel Aviv University,4,,IL,Israel,2020
+151-200,Texas A&M University,57-65,,US,United States,2020
+151-200,The University of Adelaide,8,,AU,Australia,2020
+151-200,The University of Calgary,6-9,,CA,Canada,2020
+151-200,The University of Glasgow,16-20,,GB,United Kingdom,2020
+151-200,The University of Hong Kong,2,,HK,Hong Kong,2020
+151-200,Tianjin University,14-22,,CN,China,2020
+151-200,Tohoku University,5-7,,JP,Japan,2020
+151-200,Trinity College Dublin,1,,IE,Ireland,2020
+151-200,Tufts University,57-65,,US,United States,2020
+151-200,University of Barcelona,1,,ES,Spain,2020
+151-200,"University of California, Santa Cruz",57-65,,US,United States,2020
+151-200,University of Cologne,8-10,,DE,Germany,2020
+151-200,University of Electronic Science and Technology of China,14-22,,CN,China,2020
+151-200,University of Exeter,16-20,,GB,United Kingdom,2020
+151-200,University of Lisbon,1,,PT,Portugal,2020
+151-200,University of Massachusetts Amherst,57-65,,US,United States,2020
+151-200,University of Massachusetts Medical School - Worcester,57-65,,US,United States,2020
+151-200,University of Milan,1-3,,IT,Italy,2020
+151-200,University of Missouri - Columbia,57-65,,US,United States,2020
+151-200,University of Montpellier,8,,FR,France,2020
+151-200,University of Montreal,6-9,,CA,Canada,2020
+151-200,University of Muenster,8-10,,DE,Germany,2020
+151-200,University of Ottawa,6-9,,CA,Canada,2020
+151-200,University of Pisa,1-3,,IT,Italy,2020
+151-200,University of Rochester,57-65,,US,United States,2020
+151-200,University of Sussex,16-20,,GB,United Kingdom,2020
+151-200,University of Tuebingen,8-10,,DE,Germany,2020
+151-200,University of Vienna,1,,AT,Austria,2020
+151-200,University of Virginia,57-65,,US,United States,2020
+151-200,University of Waterloo,6-9,,CA,Canada,2020
+151-200,Wageningen University & Research,8-9,,NL,Netherlands,2020
+151-200,Wuhan University,14-22,,CN,China,2020
+201-300,Autonomous University of Barcelona,2-5,,ES,Spain,2020
+201-300,Beijing Institute of Technology,23-32,,CN,China,2020
+201-300,Beijing Normal University,23-32,,CN,China,2020
+201-300,Charles University in Prague,1,,CZ,Czechia,2020
+201-300,China Medical University (Taichung),1-2,,TW,Taiwan,2020
+201-300,City University of Hong Kong,3-4,,HK,Hong Kong,2020
+201-300,Claude Bernard University Lyon 1,9-12,,FR,France,2020
+201-300,Colorado State University,66-94,,US,United States,2020
+201-300,Complutense University of Madrid,2-5,,ES,Spain,2020
+201-300,Curtin University,9-15,,AU,Australia,2020
+201-300,Dalhousie University,10-12,,CA,Canada,2020
+201-300,Dalian University of Technology,23-32,,CN,China,2020
+201-300,Dartmouth College,66-94,,US,United States,2020
+201-300,Deakin University,9-15,,AU,Australia,2020
+201-300,Durham University,21-28,,GB,United Kingdom,2020
+201-300,Florida State University,66-94,,US,United States,2020
+201-300,George Mason University,66-94,,US,United States,2020
+201-300,Georgetown University,66-94,,US,United States,2020
+201-300,Hanyang University,2-6,,KR,South Korea,2020
+201-300,Hunan University,23-32,,CN,China,2020
+201-300,Iowa State University,66-94,,US,United States,2020
+201-300,Karlsruhe Institute of Technology (KIT),11-19,,DE,Germany,2020
+201-300,King Abdullah University of Science and Technology,3,,SA,Saudi Arabia,2020
+201-300,Korea Advanced Institute of Science and Technology,2-6,,KR,South Korea,2020
+201-300,Korea University,2-6,,KR,South Korea,2020
+201-300,KTH Royal Institute of Technology,6,,SE,Sweden,2020
+201-300,London School of Hygiene & Tropical Medicine,21-28,,GB,United Kingdom,2020
+201-300,Maastricht University,10,,NL,Netherlands,2020
+201-300,Macquarie University,9-15,,AU,Australia,2020
+201-300,Medical University of Vienna,2-3,,AT,Austria,2020
+201-300,Nankai University,23-32,,CN,China,2020
+201-300,National Autonomous University of Mexico,1,,MX,Mexico,2020
+201-300,National Taiwan University,1-2,,TW,Taiwan,2020
+201-300,Newcastle University,21-28,,GB,United Kingdom,2020
+201-300,North Carolina State University - Raleigh,66-94,,US,United States,2020
+201-300,Northeastern University (Boston),66-94,,US,United States,2020
+201-300,Northwestern Polytechnical University,23-32,,CN,China,2020
+201-300,Oregon Health and Science University,66-94,,US,United States,2020
+201-300,Oregon State University,66-94,,US,United States,2020
+201-300,Paul Sabatier University (Toulouse 3),9-12,,FR,France,2020
+201-300,Polytechnic University of Milan,4-7,,IT,Italy,2020
+201-300,Queen Mary University of London,21-28,,GB,United Kingdom,2020
+201-300,Queen's University,10-12,,CA,Canada,2020
+201-300,RWTH Aachen University,11-19,,DE,Germany,2020
+201-300,Shenzhen University,23-32,,CN,China,2020
+201-300,Stony Brook University,66-94,,US,United States,2020
+201-300,Sungkyunkwan University,2-6,,KR,South Korea,2020
+201-300,Swinburne University of Technology,9-15,,AU,Australia,2020
+201-300,The Hong Kong Polytechnic University,3-4,,HK,Hong Kong,2020
+201-300,The University of Auckland,1,,NZ,New Zealand,2020
+201-300,The University of Georgia,66-94,,US,United States,2020
+201-300,The University of Reading,21-28,,GB,United Kingdom,2020
+201-300,Tongji University,23-32,,CN,China,2020
+201-300,TU Dresden,11-19,,DE,Germany,2020
+201-300,University of Aberdeen,21-28,,GB,United Kingdom,2020
+201-300,University of Bologna,4-7,,IT,Italy,2020
+201-300,University of Bordeaux,9-12,,FR,France,2020
+201-300,University of Buenos Aires,1,,AR,Argentina,2020
+201-300,"University of California, Riverside",66-94,,US,United States,2020
+201-300,University of Cape Town,1-2,,ZA,South Africa,2020
+201-300,University of Cincinnati,66-94,,US,United States,2020
+201-300,University of Colorado at Denver,66-94,,US,United States,2020
+201-300,University of Connecticut,66-94,,US,United States,2020
+201-300,University of Delaware,66-94,,US,United States,2020
+201-300,University of East Anglia,21-28,,GB,United Kingdom,2020
+201-300,University of Erlangen-Nuremberg,11-19,,DE,Germany,2020
+201-300,University of Granada,2-5,,ES,Spain,2020
+201-300,University of Hamburg,11-19,,DE,Germany,2020
+201-300,University of Houston,66-94,,US,United States,2020
+201-300,University of Illinois at Chicago,66-94,,US,United States,2020
+201-300,University of Innsbruck,2-3,,AT,Austria,2020
+201-300,University of Iowa,66-94,,US,United States,2020
+201-300,University of Kansas,66-94,,US,United States,2020
+201-300,University of Kiel,11-19,,DE,Germany,2020
+201-300,University of Leipzig,11-19,,DE,Germany,2020
+201-300,University of Liege,5,,BE,Belgium,2020
+201-300,University of Lorraine,9-12,,FR,France,2020
+201-300,University of Mainz,11-19,,DE,Germany,2020
+201-300,"University of Maryland, Baltimore",66-94,,US,United States,2020
+201-300,University of Miami,66-94,,US,United States,2020
+201-300,University of Nebraska - Lincoln,66-94,,US,United States,2020
+201-300,University of Padua,4-7,,IT,Italy,2020
+201-300,University of Science and Technology Beijing,23-32,,CN,China,2020
+201-300,University of South Florida,66-94,,US,United States,2020
+201-300,University of Tasmania,9-15,,AU,Australia,2020
+201-300,University of Technology Sydney,9-15,,AU,Australia,2020
+201-300,University of Tennessee - Knoxville,66-94,,US,United States,2020
+201-300,University of the Witwatersrand,1-2,,ZA,South Africa,2020
+201-300,University of Tsukuba,8,,JP,Japan,2020
+201-300,University of Turin,4-7,,IT,Italy,2020
+201-300,University of Valencia,2-5,,ES,Spain,2020
+201-300,University of Wollongong,9-15,,AU,Australia,2020
+201-300,University of Wuerzburg,11-19,,DE,Germany,2020
+201-300,University of York,21-28,,GB,United Kingdom,2020
+201-300,Virginia Commonwealth University,66-94,,US,United States,2020
+201-300,Virginia Polytechnic Institute and State University,66-94,,US,United States,2020
+201-300,Western University,10-12,,CA,Canada,2020
+201-300,Xiamen University,23-32,,CN,China,2020
+201-300,Yeshiva University,66-94,,US,United States,2020
+201-300,Yonsei University,2-6,,KR,South Korea,2020
+301-400,Aalborg University,4-5,,DK,Denmark,2020
+301-400,Autonomous University of Madrid,6-9,,ES,Spain,2020
+301-400,Beijing University of Chemical Technology,33-49,,CN,China,2020
+301-400,Brandeis University,95-114,,US,United States,2020
+301-400,Capital Medical University,33-49,,CN,China,2020
+301-400,Chalmers University of Technology,7-9,,SE,Sweden,2020
+301-400,China Agricultural University,33-49,,CN,China,2020
+301-400,China University of Geosciences (Wuhan),33-49,,CN,China,2020
+301-400,Chongqing University,33-49,,CN,China,2020
+301-400,Drexel University,95-114,,US,United States,2020
+301-400,East China University of Science and Technology,33-49,,CN,China,2020
+301-400,Ecole Normale Superieure - Lyon,13-16,,FR,France,2020
+301-400,Griffith University,16-22,,AU,Australia,2020
+301-400,Heinrich Heine University Duesseldorf,20-24,,DE,Germany,2020
+301-400,Huazhong Agricultural University,33-49,,CN,China,2020
+301-400,Indiana University-Purdue University at Indianapolis,95-114,,US,United States,2020
+301-400,Institut Polytechnique de Paris,13-16,,FR,France,2020
+301-400,James Cook University,16-22,,AU,Australia,2020
+301-400,Jiangsu University,33-49,,CN,China,2020
+301-400,Keio University,9-10,,JP,Japan,2020
+301-400,Kyung Hee University,7-9,,KR,South Korea,2020
+301-400,Kyungpook National University,7-9,,KR,South Korea,2020
+301-400,Kyushu University,9-10,,JP,Japan,2020
+301-400,La Trobe University,16-22,,AU,Australia,2020
+301-400,Lancaster University,29-34,,GB,United Kingdom,2020
+301-400,Laval University,13-18,,CA,Canada,2020
+301-400,Linkoping University,7-9,,SE,Sweden,2020
+301-400,Louisiana State University - Baton Rouge,95-114,,US,United States,2020
+301-400,Medical University of South Carolina,95-114,,US,United States,2020
+301-400,Nanjing Agricultural University,33-49,,CN,China,2020
+301-400,Nanjing University of Aeronautics and Astronautics,33-49,,CN,China,2020
+301-400,Nanjing University of Science and Technology,33-49,,CN,China,2020
+301-400,National and Kapodistrian University of Athens,1,,GR,Greece,2020
+301-400,National Cheng Kung University,3,,TW,Taiwan,2020
+301-400,Northeastern University (Shenyang),33-49,,CN,China,2020
+301-400,Peking Union Medical College,33-49,,CN,China,2020
+301-400,Pohang University of Science and Technology,7-9,,KR,South Korea,2020
+301-400,Polytechnic University of Valencia,6-9,,ES,Spain,2020
+301-400,Pompeu Fabra University,6-9,,ES,Spain,2020
+301-400,Queensland University of Technology,16-22,,AU,Australia,2020
+301-400,RMIT University,16-22,,AU,Australia,2020
+301-400,Saint Petersburg State University,2,,RU,Russia,2020
+301-400,Shanghai University,33-49,,CN,China,2020
+301-400,Simon Fraser University,13-18,,CA,Canada,2020
+301-400,Southern University of Science and Technology,33-49,,CN,China,2020
+301-400,Swedish University of Agricultural Sciences,7-9,,SE,Sweden,2020
+301-400,Technical University of Berlin,20-24,,DE,Germany,2020
+301-400,Temple University,95-114,,US,United States,2020
+301-400,The George Washington University,95-114,,US,United States,2020
+301-400,The Hong Kong University of Science and Technology,5,,HK,Hong Kong,2020
+301-400,The University of Dundee,29-34,,GB,United Kingdom,2020
+301-400,The University of New Mexico - Albuquerque,95-114,,US,United States,2020
+301-400,"The University of Newcastle, Australia",16-22,,AU,Australia,2020
+301-400,The University of Texas at Dallas,95-114,,US,United States,2020
+301-400,The University of Texas Health Science Center at Houston,95-114,,US,United States,2020
+301-400,UNESP,2-3,,BR,Brazil,2020
+301-400,"University at Buffalo, the State University of New York",95-114,,US,United States,2020
+301-400,University College Dublin,2,,IE,Ireland,2020
+301-400,University of Alabama at Birmingham,95-114,,US,United States,2020
+301-400,University of Antwerp,6-7,,BE,Belgium,2020
+301-400,University of Bath,29-34,,GB,United Kingdom,2020
+301-400,University of Bergen,3,,NO,Norway,2020
+301-400,University of Campinas,2-3,,BR,Brazil,2020
+301-400,University of Central Florida,95-114,,US,United States,2020
+301-400,University of Côte d'Azur,13-16,,FR,France,2020
+301-400,University of Duisburg-Essen,20-24,,DE,Germany,2020
+301-400,University of Florence,8-10,,IT,Italy,2020
+301-400,University of Guelph,13-18,,CA,Canada,2020
+301-400,University of Hawaii at Manoa,95-114,,US,United States,2020
+301-400,University of Kentucky,95-114,,US,United States,2020
+301-400,University of Leicester,29-34,,GB,United Kingdom,2020
+301-400,University of Malaya,1,,MY,Malaysia,2020
+301-400,University of Manitoba,13-18,,CA,Canada,2020
+301-400,University of Milano-Bicocca,8-10,,IT,Italy,2020
+301-400,University of Naples Federico II,8-10,,IT,Italy,2020
+301-400,"University of Natural Resources and Life Sciences, Vienna",4-5,,AT,Austria,2020
+301-400,University of Notre Dame,95-114,,US,United States,2020
+301-400,University of Oregon,95-114,,US,United States,2020
+301-400,University of Otago,2,,NZ,New Zealand,2020
+301-400,University of Porto,2,,PT,Portugal,2020
+301-400,University of Saskatchewan,13-18,,CA,Canada,2020
+301-400,University of South Carolina - Columbia,95-114,,US,United States,2020
+301-400,University of Southern Denmark,4-5,,DK,Denmark,2020
+301-400,University of St Andrews,29-34,,GB,United Kingdom,2020
+301-400,University of Stuttgart,20-24,,DE,Germany,2020
+301-400,University of Surrey,29-34,,GB,United Kingdom,2020
+301-400,University of Tehran,1,,IR,Iran,2020
+301-400,University of the Basque Country,6-9,,ES,Spain,2020
+301-400,University of Toulouse 1,13-16,,FR,France,2020
+301-400,University of Turku,2,,FI,Finland,2020
+301-400,University of Ulm,20-24,,DE,Germany,2020
+301-400,University of Vermont,95-114,,US,United States,2020
+301-400,University of Victoria,13-18,,CA,Canada,2020
+301-400,University of Warsaw,1,,PL,Poland,2020
+301-400,Vienna University of Technology,4-5,,AT,Austria,2020
+301-400,Vrije Universiteit Brussel (VUB),6-7,,BE,Belgium,2020
+301-400,Washington State University,95-114,,US,United States,2020
+301-400,Western Sydney University,16-22,,AU,Australia,2020
+301-400,Wuhan University of Technology,33-49,,CN,China,2020
+301-400,Zhengzhou University,33-49,,CN,China,2020
+401-500,Aalto University,3,,FI,Finland,2020
+401-500,Bar-Ilan University,5-6,,IL,Israel,2020
+401-500,Beijing Jiaotong University,50-71,,CN,China,2020
+401-500,Beijing University of Technology,50-71,,CN,China,2020
+401-500,Ben-Gurion University of the Negev,5-6,,IL,Israel,2020
+401-500,Brigham Young University,115-133,,US,United States,2020
+401-500,Cairo University,1,,EG,Egypt,2020
+401-500,Chiba University,11-14,,JP,Japan,2020
+401-500,China University of Geosciences (Beijing),50-71,,CN,China,2020
+401-500,China University of Mining and Technology - Xuzhou,50-71,,CN,China,2020
+401-500,CUNY Graduate School and University Center,115-133,,US,United States,2020
+401-500,East China Normal University,50-71,,CN,China,2020
+401-500,Eindhoven University of Technology,11-12,,NL,Netherlands,2020
+401-500,Federal University of Minas Gerais,4-6,,BR,Brazil,2020
+401-500,Federal University of Rio de Janeiro,4-6,,BR,Brazil,2020
+401-500,Federal University of Rio Grande do Sul,4-6,,BR,Brazil,2020
+401-500,Flinders University,23,,AU,Australia,2020
+401-500,Florida International University,115-133,,US,United States,2020
+401-500,Fuzhou University,50-71,,CN,China,2020
+401-500,Georgia State University,115-133,,US,United States,2020
+401-500,Guangdong University of Technology,50-71,,CN,China,2020
+401-500,Hannover Medical School,25-30,,DE,Germany,2020
+401-500,Harbin Engineering University,50-71,,CN,China,2020
+401-500,Hefei University of Technology,50-71,,CN,China,2020
+401-500,Istanbul University,1,,TR,Turkey,2020
+401-500,Jagiellonian University,2,,PL,Poland,2020
+401-500,Jinan University,50-71,,CN,China,2020
+401-500,Kansas State University,115-133,,US,United States,2020
+401-500,King Fahd University of Petroleum & Minerals,4,,SA,Saudi Arabia,2020
+401-500,Kobe University,11-14,,JP,Japan,2020
+401-500,Lanzhou University,50-71,,CN,China,2020
+401-500,Mahidol University,1,,TH,Thailand,2020
+401-500,Medical University of Graz,6-7,,AT,Austria,2020
+401-500,Moscow Institute of Physics and Technology,3,,RU,Russia,2020
+401-500,Nanchang University,50-71,,CN,China,2020
+401-500,Nanjing Medical University,50-71,,CN,China,2020
+401-500,NanJing Tech University,50-71,,CN,China,2020
+401-500,Nanjing University of Information Science & Technology,50-71,,CN,China,2020
+401-500,National Chiao Tung University,4-5,,TW,Taiwan,2020
+401-500,National Tsing Hua University,4-5,,TW,Taiwan,2020
+401-500,Ocean University of China,50-71,,CN,China,2020
+401-500,Okayama University,11-14,,JP,Japan,2020
+401-500,Pusan National University,10-11,,KR,South Korea,2020
+401-500,Qingdao University,50-71,,CN,China,2020
+401-500,Queen's University Belfast,35-36,,GB,United Kingdom,2020
+401-500,Rensselaer Polytechnic Institute,115-133,,US,United States,2020
+401-500,Saint Louis University,115-133,,US,United States,2020
+401-500,San Diego State University,115-133,,US,United States,2020
+401-500,Scuola Normale Superiore - Pisa,11-17,,IT,Italy,2020
+401-500,Shandong University of Science and Technology,50-71,,CN,China,2020
+401-500,ShanghaiTech University,50-71,,CN,China,2020
+401-500,South China Agricultural University,50-71,,CN,China,2020
+401-500,Southwest University,50-71,,CN,China,2020
+401-500,Stellenbosch University,3-4,,ZA,South Africa,2020
+401-500,Stockholm School of Economics,10-11,,SE,Sweden,2020
+401-500,Technical University Darmstadt,25-30,,DE,Germany,2020
+401-500,Texas Tech University,115-133,,US,United States,2020
+401-500,The City College of New York,115-133,,US,United States,2020
+401-500,The University of Texas Health Science Center at San Antonio,115-133,,US,United States,2020
+401-500,The University of Texas Medical Branch at Galveston,115-133,,US,United States,2020
+401-500,Tokyo University of Science,11-14,,JP,Japan,2020
+401-500,Ulsan National Institute of Science and Technology,10-11,,KR,South Korea,2020
+401-500,Umea University,10-11,,SE,Sweden,2020
+401-500,University College Cork,3,,IE,Ireland,2020
+401-500,University of Bari,11-17,,IT,Italy,2020
+401-500,University of Belgrade,1,,RS,Serbia,2020
+401-500,University of Bochum,25-30,,DE,Germany,2020
+401-500,University of California-Merced,115-133,,US,United States,2020
+401-500,University of Canterbury,3-4,,NZ,New Zealand,2020
+401-500,University of Catania,11-17,,IT,Italy,2020
+401-500,University of Chile,1,,CL,Chile,2020
+401-500,University of Fribourg,8,,CH,Switzerland,2020
+401-500,University of Graz,6-7,,AT,Austria,2020
+401-500,University of Jena,25-30,,DE,Germany,2020
+401-500,University of Lille,17,,FR,France,2020
+401-500,University of Maine,115-133,,US,United States,2020
+401-500,University of Marburg,25-30,,DE,Germany,2020
+401-500,University of Minho,3,,PT,Portugal,2020
+401-500,University of North Texas,115-133,,US,United States,2020
+401-500,University of Oklahoma - Norman,115-133,,US,United States,2020
+401-500,University of Oviedo,10-13,,ES,Spain,2020
+401-500,University of Pavia,11-17,,IT,Italy,2020
+401-500,University of Perugia,11-17,,IT,Italy,2020
+401-500,University of Potsdam,25-30,,DE,Germany,2020
+401-500,University of Pretoria,3-4,,ZA,South Africa,2020
+401-500,University of Santiago Compostela,10-13,,ES,Spain,2020
+401-500,University of Seville,10-13,,ES,Spain,2020
+401-500,University of Strathclyde,35-36,,GB,United Kingdom,2020
+401-500,University of Tartu,1,,EE,Estonia,2020
+401-500,University of Trento,11-17,,IT,Italy,2020
+401-500,University of Twente,11-12,,NL,Netherlands,2020
+401-500,University of Zagreb,1,,HR,Croatia,2020
+401-500,University of Zaragoza,10-13,,ES,Spain,2020
+401-500,Utah State University,115-133,,US,United States,2020
+401-500,Victoria University of Wellington,3-4,,NZ,New Zealand,2020
+401-500,Vita-Salute San Raffaele University,11-17,,IT,Italy,2020
+401-500,Wake Forest University,115-133,,US,United States,2020
+401-500,West Virginia University,115-133,,US,United States,2020
+401-500,Xidian University,50-71,,CN,China,2020
+401-500,York University,19,,CA,Canada,2020
+501-600,Amirkabir University of Technology,2-5,,IR,Iran,2020
+501-600,Aristotle University of Thessaloniki,2,,GR,Greece,2020
+501-600,Auburn University,134-154,,US,United States,2020
+501-600,Australian Catholic University,24-26,,AU,Australia,2020
+501-600,Baylor University,134-154,,US,United States,2020
+501-600,Binghamton University,134-154,,US,United States,2020
+501-600,Bocconi University,18-24,,IT,Italy,2020
+501-600,Boston College,134-154,,US,United States,2020
+501-600,Brunel University,37-43,,GB,United Kingdom,2020
+501-600,Carleton University,20,,CA,Canada,2020
+501-600,Central China Normal University,72-84,,CN,China,2020
+501-600,Chang Gung University,6-7,,TW,Taiwan,2020
+501-600,China University of Petroleum (Huadong),72-84,,CN,China,2020
+501-600,Jeonbuk National University,12-17,,KR,South Korea,2020
+501-600,Chonnam National University,12-17,,KR,South Korea,2020
+501-600,Clemson University,134-154,,US,United States,2020
+501-600,COMSATS University Islamabad,1,,PK,Pakistan,2020
+501-600,Donghua University,72-84,,CN,China,2020
+501-600,Ewha Womans University,12-17,,KR,South Korea,2020
+501-600,Hiroshima University,15-17,,JP,Japan,2020
+501-600,Indian Institute of Science,1,,IN,India,2020
+501-600,Jiangnan University,72-84,,CN,China,2020
+501-600,Kent State University,134-154,,US,United States,2020
+501-600,Kitasato University,15-17,,JP,Japan,2020
+501-600,Loughborough University,37-43,,GB,United Kingdom,2020
+501-600,Loyola University Chicago,134-154,,US,United States,2020
+501-600,Macau University of Science and Technology,1,,MO,Macao,2020
+501-600,Medical University of Innsbruck,8,,AT,Austria,2020
+501-600,Mississippi State University,134-154,,US,United States,2020
+501-600,Nanjing Normal University,72-84,,CN,China,2020
+501-600,National Polytechnic Institute,2,,MX,Mexico,2020
+501-600,National University of Defense Technology,72-84,,CN,China,2020
+501-600,National University of Malaysia,2-3,,MY,Malaysia,2020
+501-600,National Yang Ming University,6-7,,TW,Taiwan,2020
+501-600,North China Electric Power University,72-84,,CN,China,2020
+501-600,Northern Arizona University,134-154,,US,United States,2020
+501-600,Northwest A&F University,72-84,,CN,China,2020
+501-600,Novosibirsk State University,4,,RU,Russia,2020
+501-600,Oklahoma State University,134-154,,US,United States,2020
+501-600,Palacký University Olomouc,2,,CZ,Czechia,2020
+501-600,Polytechnic University of Madrid,14-18,,ES,Spain,2020
+501-600,Pontifical Catholic University of Chile,2,,CL,Chile,2020
+501-600,Rush University,134-154,,US,United States,2020
+501-600,Saarland University,31-35,,DE,Germany,2020
+501-600,Sejong University,12-17,,KR,South Korea,2020
+501-600,Sharif University of Technology,2-5,,IR,Iran,2020
+501-600,South China Normal University,72-84,,CN,China,2020
+501-600,Southern Medical University,72-84,,CN,China,2020
+501-600,Southern Methodist University,134-154,,US,United States,2020
+501-600,"St George's, University of London",37-43,,GB,United Kingdom,2020
+501-600,Tarbiat Modares University,2-5,,IR,Iran,2020
+501-600,Tehran University of Medical Sciences,2-5,,IR,Iran,2020
+501-600,The University of Alabama - Tuscaloosa,134-154,,US,United States,2020
+501-600,The University of Tokushima,15-17,,JP,Japan,2020
+501-600,Thomas Jefferson University,134-154,,US,United States,2020
+501-600,University at Albany (State University of New York),134-154,,US,United States,2020
+501-600,University of Auvergne,18-20,,FR,France,2020
+501-600,University of Aveiro,4-5,,PT,Portugal,2020
+501-600,University of Bremen,31-35,,DE,Germany,2020
+501-600,University of Burgundy,18-20,,FR,France,2020
+501-600,University of Coimbra,4-5,,PT,Portugal,2020
+501-600,University of Eastern Finland,4-6,,FI,Finland,2020
+501-600,University of Essex,37-43,,GB,United Kingdom,2020
+501-600,University of Ferrara,18-24,,IT,Italy,2020
+501-600,University of Genoa,18-24,,IT,Italy,2020
+501-600,University of Halle-Wittenberg,31-35,,DE,Germany,2020
+501-600,University of Iceland,1,,IS,Iceland,2020
+501-600,University of Idaho,134-154,,US,United States,2020
+501-600,University of Kent,37-43,,GB,United Kingdom,2020
+501-600,University of KwaZulu-Natal,5,,ZA,South Africa,2020
+501-600,University of Ljubljana,1,,SI,Slovenia,2020
+501-600,University of Navarra,14-18,,ES,Spain,2020
+501-600,University of Nevada - Reno,134-154,,US,United States,2020
+501-600,University of Nevada-Las Vegas,134-154,,US,United States,2020
+501-600,University of New England,24-26,,AU,Australia,2020
+501-600,University of New Hampshire,134-154,,US,United States,2020
+501-600,University of Oulu,4-6,,FI,Finland,2020
+501-600,University of Palermo,18-24,,IT,Italy,2020
+501-600,University of Parma,18-24,,IT,Italy,2020
+501-600,University of Plymouth,37-43,,GB,United Kingdom,2020
+501-600,University of Portsmouth,37-43,,GB,United Kingdom,2020
+501-600,University of Regensburg,31-35,,DE,Germany,2020
+501-600,University of Rennes 1,18-20,,FR,France,2020
+501-600,University of Roma - Tor Vergata,18-24,,IT,Italy,2020
+501-600,University of Rostock,31-35,,DE,Germany,2020
+501-600,"University of Science, Malaysia",2-3,,MY,Malaysia,2020
+501-600,University of South Australia,24-26,,AU,Australia,2020
+501-600,University of Tampere,4-6,,FI,Finland,2020
+501-600,University of the Balearic Islands,14-18,,ES,Spain,2020
+501-600,University of Tromso,4,,NO,Norway,2020
+501-600,University of Ulsan,12-17,,KR,South Korea,2020
+501-600,University of Verona,18-24,,IT,Italy,2020
+501-600,University of Vigo,14-18,,ES,Spain,2020
+501-600,University of Wyoming,134-154,,US,United States,2020
+501-600,University Rovira i Virgili,14-18,,ES,Spain,2020
+501-600,Wayne State University,134-154,,US,United States,2020
+501-600,Wenzhou Medical University,72-84,,CN,China,2020
+501-600,Yangzhou University,72-84,,CN,China,2020
+501-600,Yeungnam University,12-17,,KR,South Korea,2020
+501-600,Zhejiang University of Technology,72-84,,CN,China,2020
+601-700,American University of Beirut,1,,LB,Lebanon,2020
+601-700,Beijing University of Posts and Telecommunications,85-102,,CN,China,2020
+601-700,Catholic University of the Sacred Heart,25-30,,IT,Italy,2020
+601-700,China Medical University (Shenyang),85-102,,CN,China,2020
+601-700,Chung-Ang University,18-20,,KR,South Korea,2020
+601-700,Chungbuk National University,18-20,,KR,South Korea,2020
+601-700,Colorado School of Mines,155-175,,US,United States,2020
+601-700,Comenius University in Bratislava,1,,SK,Slovakia,2020
+601-700,Concordia University,21-24,,CA,Canada,2020
+601-700,CUNY Hunter College,155-175,,US,United States,2020
+601-700,Edith Cowan University,27-29,,AU,Australia,2020
+601-700,Eotvos Lorand University,1-2,,HU,Hungary,2020
+601-700,Federal University of Parana,7-8,,BR,Brazil,2020
+601-700,Federal University of Sao Paulo,7-8,,BR,Brazil,2020
+601-700,Fujian Agriculture and Forestry University,85-102,,CN,China,2020
+601-700,Fujian Normal University,85-102,,CN,China,2020
+601-700,Graz University of Technology,9,,AT,Austria,2020
+601-700,Guangzhou Medical University,85-102,,CN,China,2020
+601-700,Guangzhou University,85-102,,CN,China,2020
+601-700,Hacettepe University,2-3,,TR,Turkey,2020
+601-700,Hasselt University,8,,BE,Belgium,2020
+601-700,Hohai University,85-102,,CN,China,2020
+601-700,Humanitas University,25-30,,IT,Italy,2020
+601-700,Hunan Normal University,85-102,,CN,China,2020
+601-700,Indian Institute of Technology Madras,2-4,,IN,India,2020
+601-700,INHA University,18-20,,KR,South Korea,2020
+601-700,Istanbul Technical University,2-3,,TR,Turkey,2020
+601-700,Keele University,44-45,,GB,United Kingdom,2020
+601-700,Leibniz University Hannover,36-39,,DE,Germany,2020
+601-700,Masaryk University,3,,CZ,Czechia,2020
+601-700,Massey University,5,,NZ,New Zealand,2020
+601-700,Medical College of Wisconsin,155-175,,US,United States,2020
+601-700,Memorial University of Newfoundland,21-24,,CA,Canada,2020
+601-700,Miguel Hernandez University of Elche,19-22,,ES,Spain,2020
+601-700,Missouri University of Science and Technology,155-175,,US,United States,2020
+601-700,Murdoch University,27-29,,AU,Australia,2020
+601-700,National Sun Yat-Sen University,8-9,,TW,Taiwan,2020
+601-700,National Technical University of Athens,3,,GR,Greece,2020
+601-700,"National University of Ireland, Galway",4,,IE,Ireland,2020
+601-700,New University of Lisbon,6,,PT,Portugal,2020
+601-700,Northeast Normal University,85-102,,CN,China,2020
+601-700,Northwest University,85-102,,CN,China,2020
+601-700,North-West University,6-7,,ZA,South Africa,2020
+601-700,Norwegian University of Life Sciences,5,,NO,Norway,2020
+601-700,Ohio University,155-175,,US,United States,2020
+601-700,Orebro University,12,,SE,Sweden,2020
+601-700,Polytechnic University of Turin,25-30,,IT,Italy,2020
+601-700,Qatar University,1,,QA,Qatar,2020
+601-700,Renmin University of China,85-102,,CN,China,2020
+601-700,Shaanxi Normal University,85-102,,CN,China,2020
+601-700,Shanxi University,85-102,,CN,China,2020
+601-700,Southwest Jiaotong University,85-102,,CN,China,2020
+601-700,State University of New York Health Science Center at Brooklyn,155-175,,US,United States,2020
+601-700,Swansea University,44-45,,GB,United Kingdom,2020
+601-700,Swarthmore College,155-175,,US,United States,2020
+601-700,Syracuse University,155-175,,US,United States,2020
+601-700,Taipei Medical University,8-9,,TW,Taiwan,2020
+601-700,Technical University of Braunschweig,36-39,,DE,Germany,2020
+601-700,The University of Texas at Arlington,155-175,,US,United States,2020
+601-700,The University of Texas at San Antonio,155-175,,US,United States,2020
+601-700,Tianjin Medical University,85-102,,CN,China,2020
+601-700,Tilburg University,13,,NL,Netherlands,2020
+601-700,Tokyo Medical and Dental University,18-19,,JP,Japan,2020
+601-700,Tulane University,155-175,,US,United States,2020
+601-700,Universitat Jaume I,19-22,,ES,Spain,2020
+601-700,Universiti Teknologi Malaysia,4,,MY,Malaysia,2020
+601-700,University of Alaska - Fairbanks,155-175,,US,United States,2020
+601-700,University of Alicante,19-22,,ES,Spain,2020
+601-700,University of Arkansas at Fayetteville,155-175,,US,United States,2020
+601-700,University of Calcutta,2-4,,IN,India,2020
+601-700,University of Canberra,27-29,,AU,Australia,2020
+601-700,University of Cyprus,1,,CY,Cyprus,2020
+601-700,University of Delhi,2-4,,IN,India,2020
+601-700,University of Haifa,7,,IL,Israel,2020
+601-700,University of Jinan,85-102,,CN,China,2020
+601-700,University of Johannesburg,6-7,,ZA,South Africa,2020
+601-700,University of Konstanz,36-39,,DE,Germany,2020
+601-700,University of La Laguna,19-22,,ES,Spain,2020
+601-700,University of Louisville,155-175,,US,United States,2020
+601-700,University of Luxembourg,1,,LU,Luxembourg,2020
+601-700,University of Macau,2,,MO,Macao,2020
+601-700,University of Magdeburg,36-39,,DE,Germany,2020
+601-700,"University of Maryland, Baltimore County",155-175,,US,United States,2020
+601-700,University of Montana - Missoula,155-175,,US,United States,2020
+601-700,University of Nantes,21-22,,FR,France,2020
+601-700,University of Nebraska Medical Center,155-175,,US,United States,2020
+601-700,University of Quebec Montreal,21-24,,CA,Canada,2020
+601-700,University of Salerno,25-30,,IT,Italy,2020
+601-700,University of Shanghai for Science and Technology,85-102,,CN,China,2020
+601-700,University of Sherbrooke,21-24,,CA,Canada,2020
+601-700,University of Siena,25-30,,IT,Italy,2020
+601-700,University of Szeged,1-2,,HU,Hungary,2020
+601-700,University of Tennessee Health Science Center,155-175,,US,United States,2020
+601-700,University of Texas at El Paso,155-175,,US,United States,2020
+601-700,University of Toledo,155-175,,US,United States,2020
+601-700,University of Trieste,25-30,,IT,Italy,2020
+601-700,University of Versailles Saint-Quentin-en-Yvelines,21-22,,FR,France,2020
+601-700,University of Wisconsin-Milwaukee,155-175,,US,United States,2020
+601-700,Waseda University,18-19,,JP,Japan,2020
+601-700,Xi'an University of Technology,85-102,,CN,China,2020
+701-800,AGH University of Science and Technology,3,,PL,Poland,2020
+701-800,Air Force Medical University,103-120,,CN,China,2020
+701-800,Alexandria University,2,,EG,Egypt,2020
+701-800,Anhui Medical University,103-120,,CN,China,2020
+701-800,Anhui University,103-120,,CN,China,2020
+701-800,Army Medical University,103-120,,CN,China,2020
+701-800,Aston University,46-54,,GB,United Kingdom,2020
+701-800,Babeș-Bolyai University,1,,RO,Romania,2020
+701-800,Bangor University,46-54,,GB,United Kingdom,2020
+701-800,Beijing Forestry University,103-120,,CN,China,2020
+701-800,Bielefeld University,40-45,,DE,Germany,2020
+701-800,Brescia University,31-38,,IT,Italy,2020
+701-800,Catholic University of Korea,21-24,,KR,South Korea,2020
+701-800,China University of Petroleum - Beijing,103-120,,CN,China,2020
+701-800,Chongqing Medical University,103-120,,CN,China,2020
+701-800,Chulalongkorn University,2,,TH,Thailand,2020
+701-800,Chungnam National University,21-24,,KR,South Korea,2020
+701-800,"City, University of London",46-54,,GB,United Kingdom,2020
+701-800,Czech Technical University in Prague,4,,CZ,Czechia,2020
+701-800,Dokuz Eylul University,4-5,,TR,Turkey,2020
+701-800,Ege University,4-5,,TR,Turkey,2020
+701-800,Federal University of Santa Catarina,9-12,,BR,Brazil,2020
+701-800,Federal University of Sao Carlos,9-12,,BR,Brazil,2020
+701-800,Fluminense Federal University,9-12,,BR,Brazil,2020
+701-800,Guizhou University,103-120,,CN,China,2020
+701-800,Hangzhou Dianzi University,103-120,,CN,China,2020
+701-800,Harbin Medical University,103-120,,CN,China,2020
+701-800,Heriot-Watt University,46-54,,GB,United Kingdom,2020
+701-800,Hong Kong Baptist University,6,,HK,Hong Kong,2020
+701-800,Indian Institute of Technology Delhi,5-7,,IN,India,2020
+701-800,Indian Institute of Technology Kharagpur,5-7,,IN,India,2020
+701-800,International School for Advanced Studies,31-38,,IT,Italy,2020
+701-800,Jawaharlal Nehru University,5-7,,IN,India,2020
+701-800,Juntendo University,20-24,,JP,Japan,2020
+701-800,Kanazawa University,20-24,,JP,Japan,2020
+701-800,Kangwon National University,21-24,,KR,South Korea,2020
+701-800,Kaohsiung Medical University,10-11,,TW,Taiwan,2020
+701-800,Kindai University,20-24,,JP,Japan,2020
+701-800,Konkuk University,21-24,,KR,South Korea,2020
+701-800,Kunming University of Science and Technology,103-120,,CN,China,2020
+701-800,Lehigh University,176-181,,US,United States,2020
+701-800,Liverpool John Moores University,46-54,,GB,United Kingdom,2020
+701-800,Michigan Technological University,176-181,,US,United States,2020
+701-800,Nanjing Forestry University,103-120,,CN,China,2020
+701-800,Nanjing University of Posts and Telecommunications,103-120,,CN,China,2020
+701-800,National Central University,10-11,,TW,Taiwan,2020
+701-800,National Research Nuclear University MEPhI (Moscow Engineering Physics Institute),5-6,,RU,Russia,2020
+701-800,National University of Colombia,1,,CO,Colombia,2020
+701-800,National University of La Plata,2,,AR,Argentina,2020
+701-800,Ningbo University,103-120,,CN,China,2020
+701-800,Nottingham Trent University,46-54,,GB,United Kingdom,2020
+701-800,Old Dominion University,176-181,,US,United States,2020
+701-800,Osaka City University,20-24,,JP,Japan,2020
+701-800,Paris 12 Val de Marne University,23-26,,FR,France,2020
+701-800,Polytechnic University of Catalonia,23-30,,ES,Spain,2020
+701-800,Qingdao University of Science and Technology,103-120,,CN,China,2020
+701-800,Qufu Normal University,103-120,,CN,China,2020
+701-800,"Royal Holloway, University of London",46-54,,GB,United Kingdom,2020
+701-800,School for Advanced Studies in the Social Sciences,23-26,,FR,France,2020
+701-800,Shahid Beheshti University of Medical Sciences,6-7,,IR,Iran,2020
+701-800,Shinshu University,20-24,,JP,Japan,2020
+701-800,Shiraz University,6-7,,IR,Iran,2020
+701-800,SUNY Upstate Medical University,176-181,,US,United States,2020
+701-800,Taiyuan University of Technology,103-120,,CN,China,2020
+701-800,The Open University,46-54,,GB,United Kingdom,2020
+701-800,The Second Military Medical University,103-120,,CN,China,2020
+701-800,The University of Waikato,6,,NZ,New Zealand,2020
+701-800,Ton Duc Thang University,1,,VN,Vietnam,2020
+701-800,Università Della Svizzera Italiana,9,,CH,Switzerland,2020
+701-800,Universitat de Lleida,23-30,,ES,Spain,2020
+701-800,Université Gustave Eiffel,23-26,,FR,France,2020
+701-800,University of Arkansas for Medical Sciences,176-181,,US,United States,2020
+701-800,University of Bayreuth,40-45,,DE,Germany,2020
+701-800,University of Brasília,9-12,,BR,Brazil,2020
+701-800,University of Campania Luigi Vanvitelli,31-38,,IT,Italy,2020
+701-800,University of Cordoba,23-30,,ES,Spain,2020
+701-800,University of Eastern Piedmont,31-38,,IT,Italy,2020
+701-800,University of Extremadura,23-30,,ES,Spain,2020
+701-800,University of Giessen,40-45,,DE,Germany,2020
+701-800,University of Hohenheim,40-45,,DE,Germany,2020
+701-800,University of Hull,46-54,,GB,United Kingdom,2020
+701-800,University of Jaen,23-30,,ES,Spain,2020
+701-800,University of Jyvaskyla,7,,FI,Finland,2020
+701-800,University of Kassel,40-45,,DE,Germany,2020
+701-800,University of L'Aquila,31-38,,IT,Italy,2020
+701-800,University of Limerick,5,,IE,Ireland,2020
+701-800,University of Luebeck,40-45,,DE,Germany,2020
+701-800,University of Malaga,23-30,,ES,Spain,2020
+701-800,University of Missouri-Kansas City,176-181,,US,United States,2020
+701-800,University of Modena and Reggio Emilia,31-38,,IT,Italy,2020
+701-800,University of Murcia,23-30,,ES,Spain,2020
+701-800,University of Regina,25,,CA,Canada,2020
+701-800,University of Salamanca,23-30,,ES,Spain,2020
+701-800,University of Salento,31-38,,IT,Italy,2020
+701-800,University of Savoy,23-26,,FR,France,2020
+701-800,University of Urbino,31-38,,IT,Italy,2020
+701-800,University Putra Malaysia,5,,MY,Malaysia,2020
+701-800,Ural Federal University,5-6,,RU,Russia,2020
+701-800,Vilnius University,1,,LT,Lithuania,2020
+701-800,WU Vienna University of Economics and Business,10,,AT,Austria,2020
+801-900,Adam Mickiewicz University,4-6,,PL,Poland,2020
+801-900,Addis Ababa University,1,,ET,Ethiopia,2020
+801-900,Ain Shams University,3-4,,EG,Egypt,2020
+801-900,Ajou University,25-30,,KR,South Korea,2020
+801-900,Aligarh Muslim University,8-9,,IN,India,2020
+801-900,Amherst College,182-190,,US,United States,2020
+801-900,Ankara University,6-8,,TR,Turkey,2020
+801-900,Bilkent University,6-8,,TR,Turkey,2020
+801-900,Boise State University,182-190,,US,United States,2020
+801-900,Budapest University of Technology and Economics,3,,HU,Hungary,2020
+801-900,Chang'an University,121-131,,CN,China,2020
+801-900,China Pharmaceutical University,121-131,,CN,China,2020
+801-900,China University of Mining and Technology - Beijing,121-131,,CN,China,2020
+801-900,Copenhagen Business School,6,,DK,Denmark,2020
+801-900,Czech University of Life Sciences Prague,5,,CZ,Czechia,2020
+801-900,Dongguk University,25-30,,KR,South Korea,2020
+801-900,Duke-NUS Medical School,3,,SG,Singapore,2020
+801-900,Ehime University,25-33,,JP,Japan,2020
+801-900,Federal University of Goiás,13-17,,BR,Brazil,2020
+801-900,Federal University of Pernambuco,13-17,,BR,Brazil,2020
+801-900,Federal University of Rio Grande do Norte,13-17,,BR,Brazil,2020
+801-900,Federal University of Viçosa,13-17,,BR,Brazil,2020
+801-900,Ferdowsi University of Mashhad,8-9,,IR,Iran,2020
+801-900,Florida Atlantic University,182-190,,US,United States,2020
+801-900,Fujian Medical University,121-131,,CN,China,2020
+801-900,Gachon University,25-30,,KR,South Korea,2020
+801-900,Gdansk University of Technology,4-6,,PL,Poland,2020
+801-900,Guangxi University,121-131,,CN,China,2020
+801-900,Gwangju Institute of Science and Technology,25-30,,KR,South Korea,2020
+801-900,Gyeongsang National University,25-30,,KR,South Korea,2020
+801-900,Hallym University,25-30,,KR,South Korea,2020
+801-900,Haverford College,182-190,,US,United States,2020
+801-900,Henan University,121-131,,CN,China,2020
+801-900,HSE University,7-8,,RU,Russia,2020
+801-900,Kumamoto University,25-33,,JP,Japan,2020
+801-900,Lincoln University,7,,NZ,New Zealand,2020
+801-900,Linnaeus University,13-14,,SE,Sweden,2020
+801-900,Liverpool School of Tropical Medicine,55-59,,GB,United Kingdom,2020
+801-900,London Business School,55-59,,GB,United Kingdom,2020
+801-900,Lulea University of Technology,13-14,,SE,Sweden,2020
+801-900,Mansoura University,3-4,,EG,Egypt,2020
+801-900,Marche Polytechnic University,39-45,,IT,Italy,2020
+801-900,Meijo University,25-33,,JP,Japan,2020
+801-900,Middle East Technical University,6-8,,TR,Turkey,2020
+801-900,Montana State University - Bozeman,182-190,,US,United States,2020
+801-900,Nagasaki University,25-33,,JP,Japan,2020
+801-900,Nantong University,121-131,,CN,China,2020
+801-900,National Taiwan University of Science and Technology,12,,TW,Taiwan,2020
+801-900,National University of Cordoba,3,,AR,Argentina,2020
+801-900,Niigata University,25-33,,JP,Japan,2020
+801-900,Ontario Tech University,26,,CA,Canada,2020
+801-900,Portland State University,182-190,,US,United States,2020
+801-900,Prince of Songkla University,3,,TH,Thailand,2020
+801-900,Quaid-i-Azam University,2-3,,PK,Pakistan,2020
+801-900,Rutgers University-Newark,182-190,,US,United States,2020
+801-900,Saitama University,25-33,,JP,Japan,2020
+801-900,Shandong Normal University,121-131,,CN,China,2020
+801-900,Sichuan Agricultural University,121-131,,CN,China,2020
+801-900,South Dakota State University,182-190,,US,United States,2020
+801-900,Technical University of Dortmund,46-48,,DE,Germany,2020
+801-900,The Education University of Hong Kong,7,,HK,Hong Kong,2020
+801-900,The Graduate University for Advanced Studies,25-33,,JP,Japan,2020
+801-900,The Royal Veterinary College,55-59,,GB,United Kingdom,2020
+801-900,Tomsk State University,7-8,,RU,Russia,2020
+801-900,Tuscia University,39-45,,IT,Italy,2020
+801-900,Universidad de Las Palmas de Gran Canaria,31-37,,ES,Spain,2020
+801-900,Universidad Pablo de Olavide,31-37,,ES,Spain,2020
+801-900,Universidade Federal de Pelotas,13-17,,BR,Brazil,2020
+801-900,University of Alcalá,31-37,,ES,Spain,2020
+801-900,University of Cagliari,39-45,,IT,Italy,2020
+801-900,University of Calabria,39-45,,IT,Italy,2020
+801-900,University of Cantabria,31-37,,ES,Spain,2020
+801-900,University of Castilla–La Mancha,31-37,,ES,Spain,2020
+801-900,University of Chieti-Pescara,39-45,,IT,Italy,2020
+801-900,University of Concepcion,3,,CL,Chile,2020
+801-900,University of Crete,4-5,,GR,Greece,2020
+801-900,University of Girona,31-37,,ES,Spain,2020
+801-900,University of Greenwich,55-59,,GB,United Kingdom,2020
+801-900,University of Hertfordshire,55-59,,GB,United Kingdom,2020
+801-900,University of Ioannina,4-5,,GR,Greece,2020
+801-900,University of Klagenfurt,11-12,,AT,Austria,2020
+801-900,University of Messina,39-45,,IT,Italy,2020
+801-900,University of Oldenburg,46-48,,DE,Germany,2020
+801-900,University of Poitiers,27,,FR,France,2020
+801-900,University of Rhode Island,182-190,,US,United States,2020
+801-900,University of South Africa,8,,ZA,South Africa,2020
+801-900,University of Southern Queensland,30-31,,AU,Australia,2020
+801-900,University of Tabriz,8-9,,IR,Iran,2020
+801-900,University of the Punjab,2-3,,PK,Pakistan,2020
+801-900,University of the Sunshine Coast,30-31,,AU,Australia,2020
+801-900,University of Toyama,25-33,,JP,Japan,2020
+801-900,University of Udine,39-45,,IT,Italy,2020
+801-900,University of Valladolid,31-37,,ES,Spain,2020
+801-900,University of Veterinary Medicine Vienna,11-12,,AT,Austria,2020
+801-900,University of Wuppertal,46-48,,DE,Germany,2020
+801-900,Vellore Institute of Technology,8-9,,IN,India,2020
+801-900,Warsaw University of Technology,4-6,,PL,Poland,2020
+801-900,Yokohama City University,25-33,,JP,Japan,2020
+801-900,Yunnan University,121-131,,CN,China,2020
+801-900,Zhejiang Normal University,121-131,,CN,China,2020
+901-1000,Aberystwyth University,60-65,,GB,United Kingdom,2020
+901-1000,All India Institute of Medical Sciences,10-15,,IN,India,2020
+901-1000,Anna University,10-15,,IN,India,2020
+901-1000,"Asia University, Taiwan",13-15,,TW,Taiwan,2020
+901-1000,Augusta University,191-206,,US,United States,2020
+901-1000,AUT University,8,,NZ,New Zealand,2020
+901-1000,Bharathiar University,10-15,,IN,India,2020
+901-1000,"Birkbeck, University of London",60-65,,GB,United Kingdom,2020
+901-1000,Bond University,32-34,,AU,Australia,2020
+901-1000,Carlos III University of Madrid,38-40,,ES,Spain,2020
+901-1000,Changzhou University,132-144,,CN,China,2020
+901-1000,Chiang Mai University,4,,TH,Thailand,2020
+901-1000,City University New York - Baruch College,191-206,,US,United States,2020
+901-1000,College of William and Mary,191-206,,US,United States,2020
+901-1000,Coventry University,60-65,,GB,United Kingdom,2020
+901-1000,Dalian Medical University,132-144,,CN,China,2020
+901-1000,East Carolina University,191-206,,US,United States,2020
+901-1000,Erciyes University,9-11,,TR,Turkey,2020
+901-1000,Federal University of Bahia,18-22,,BR,Brazil,2020
+901-1000,Federal University of Ceara,18-22,,BR,Brazil,2020
+901-1000,Federal University of Santa Maria,18-22,,BR,Brazil,2020
+901-1000,Gazi University,9-11,,TR,Turkey,2020
+901-1000,Gifu University,34-40,,JP,Japan,2020
+901-1000,Hebei Medical University,132-144,,CN,China,2020
+901-1000,Hebei University of Technology,132-144,,CN,China,2020
+901-1000,Howard University,191-206,,US,United States,2020
+901-1000,Huaqiao University,132-144,,CN,China,2020
+901-1000,Indian Institute of Technology Kanpur,10-15,,IN,India,2020
+901-1000,Indian Institute of Technology Roorkee,10-15,,IN,India,2020
+901-1000,Indian Institutes of Science Education and Research (IISERs),10-15,,IN,India,2020
+901-1000,Inje university,31-32,,KR,South Korea,2020
+901-1000,Iran University of Science & Technology,10-12,,IR,Iran,2020
+901-1000,Isfahan University of Technology,10-12,,IR,Iran,2020
+901-1000,ITMO University,9-11,,RU,Russia,2020
+901-1000,Johannes Kepler University Linz,13-14,,AT,Austria,2020
+901-1000,Kazan (Volga region) Federal University,9-11,,RU,Russia,2020
+901-1000,King Juan Carlos University,38-40,,ES,Spain,2020
+901-1000,Lakehead University,27-28,,CA,Canada,2020
+901-1000,Lappeenranta University of Technology,8,,FI,Finland,2020
+901-1000,Leuphana University Luneburg,49,,DE,Germany,2020
+901-1000,Liaoning University of Technology,132-144,,CN,China,2020
+901-1000,Marmara University,9-11,,TR,Turkey,2020
+901-1000,Medical University of Silesia,7-8,,PL,Poland,2020
+901-1000,Medical University of Warsaw,7-8,,PL,Poland,2020
+901-1000,Nanjing University of Chinese Medicine,132-144,,CN,China,2020
+901-1000,Nara Institute of Science and Technology,34-40,,JP,Japan,2020
+901-1000,National Chung Hsing University,13-15,,TW,Taiwan,2020
+901-1000,National Taiwan Normal University,13-15,,TW,Taiwan,2020
+901-1000,New Jersey Institute of Technology,191-206,,US,United States,2020
+901-1000,Nihon University,34-40,,JP,Japan,2020
+901-1000,Northeast Agricultural University - China,132-144,,CN,China,2020
+901-1000,Northumbria University,60-65,,GB,United Kingdom,2020
+901-1000,Rhodes University,9,,ZA,South Africa,2020
+901-1000,Rio de Janeiro State University,18-22,,BR,Brazil,2020
+901-1000,Ritsumeikan University,34-40,,JP,Japan,2020
+901-1000,Ryerson University,27-28,,CA,Canada,2020
+901-1000,Semmelweis University,4-5,,HU,Hungary,2020
+901-1000,Shanghai Normal University,132-144,,CN,China,2020
+901-1000,Shantou University,132-144,,CN,China,2020
+901-1000,Shizuoka University,34-40,,JP,Japan,2020
+901-1000,Singapore University of Technology & Design,4,,SG,Singapore,2020
+901-1000,Sogang University,31-32,,KR,South Korea,2020
+901-1000,Southern Cross University,32-34,,AU,Australia,2020
+901-1000,Southwest Petroleum University,132-144,,CN,China,2020
+901-1000,Stevens Institute of Technology,191-206,,US,United States,2020
+901-1000,The National University of Science and Technology MISiS,9-11,,RU,Russia,2020
+901-1000,The University of Akron,191-206,,US,United States,2020
+901-1000,Tokyo Metropolitan University,34-40,,JP,Japan,2020
+901-1000,Universidad Andrés Bello,4,,CL,Chile,2020
+901-1000,Universidad de Cadiz,38-40,,ES,Spain,2020
+901-1000,Universidade Federal de Mato Grosso do Sul,18-22,,BR,Brazil,2020
+901-1000,Universite de Tunis El Manar,1,,TN,Tunisia,2020
+901-1000,University of Angers,28-30,,FR,France,2020
+901-1000,University of Arkansas at Little Rock,191-206,,US,United States,2020
+901-1000,University of Chemistry and Technology Prague,6-7,,CZ,Czechia,2020
+901-1000,University of Costa Rica,1,,CR,Costa Rica,2020
+901-1000,University of Debrecen,4-5,,HU,Hungary,2020
+901-1000,University of Denver,191-206,,US,United States,2020
+901-1000,University of Engineering and Technology (UET),4,,PK,Pakistan,2020
+901-1000,University of Guilan,10-12,,IR,Iran,2020
+901-1000,University of Insubria,46,,IT,Italy,2020
+901-1000,University of Lincoln,60-65,,GB,United Kingdom,2020
+901-1000,University of Massachusetts Boston,191-206,,US,United States,2020
+901-1000,University of Massachusetts Lowell,191-206,,US,United States,2020
+901-1000,University of North Carolina at Charlotte,191-206,,US,United States,2020
+901-1000,University of North Carolina at Greensboro,191-206,,US,United States,2020
+901-1000,University of Orleans,28-30,,FR,France,2020
+901-1000,University of Salzburg,13-14,,AT,Austria,2020
+901-1000,University of South Bohemia,6-7,,CZ,Czechia,2020
+901-1000,University of Stirling,60-65,,GB,United Kingdom,2020
+901-1000,University of the Republic - Uruguay,1,,UY,Uruguay,2020
+901-1000,University of Thessaly,6,,GR,Greece,2020
+901-1000,University of Tours,28-30,,FR,France,2020
+901-1000,University of Yamanashi,34-40,,JP,Japan,2020
+901-1000,Victoria University,32-34,,AU,Australia,2020
+901-1000,Williams College,191-206,,US,United States,2020
+901-1000,Worcester Polytechnic Institute,191-206,,US,United States,2020
+901-1000,Yanshan University,132-144,,CN,China,2020
+901-1000,Zagazig University,5,,EG,Egypt,2020
+901-1000,Zhejiang Sci-Tech University,132-144,,CN,China,2020
